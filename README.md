@@ -1,4 +1,4 @@
-hotel website using react vite tailwind clerk
+# hotel website using react vite tailwind clerk
 <img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/dc4df357-ff93-4e81-8b22-d795a838cff1" />
 
 <img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/832f9ef4-6286-4524-a798-ea59f7dff622" />
